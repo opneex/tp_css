@@ -1,0 +1,20 @@
+div
+{
+border: 2px solid blue;
+border-radius: 6px;
+display: block;
+padding: 10px;
+
+}
+
+.p1
+{
+	padding: 10px;
+background-color: pink;
+}
+
+.p2
+{
+	padding: 10px;
+	background-color: skyblue;
+}
